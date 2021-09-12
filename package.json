@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.2.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "name": "work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
